@@ -165,13 +165,13 @@ Below are some screenshots of the Snaphost platform in action:
 ![Snaphost Dashboard](./static/homepage.jpg)
 *Figure 1: Snaphost homepage.*
 
-![Snaphost Dashboard](./static/selectRepo.jpg)
+![Snaphost Dashboard](./static/SearchRepo.png)
 *Figure 2: Snaphost Dashboard showing the list of repositories of logged user.*
 
-![Repository Configuration](./static/configure.jpg)
+![Repository Configuration](./static/configure.png)
 *Figure 3: Repository configuration screen where users set build commands and domain.*
 
-![Deployment Process](./static/deploymentdone.jpg)
+![Deployment Process](./static/deploymentdone.png)
 *Figure 4: Real-time build logs during the deployment process.*
 
 ![Live Deployment Preview](./static/preview.jpg)
@@ -196,8 +196,8 @@ We welcome contributions from the community. If you have suggestions, bug fixes,
 
 ## 🌎 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/httpsanuj1807)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuj-kumar-7837a9268)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_anuj1807)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HTHAKRAN70)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarav-thakran-779779240/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aarav_thakran_)
 
 Thank you for using Snaphost! We hope it makes your front-end deployment experience seamless and efficient. If you encounter any issues, please don't hesitate to reach out.
