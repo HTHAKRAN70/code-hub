@@ -74,7 +74,7 @@ Follow the steps below to set up Snaphost locally:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/httpsanuj1807/snap-host.git
+   git clone https://github.com/HTHAKRAN70/code-hub.git
    cd snap-host
    ```
 
