@@ -8,7 +8,6 @@ export default function Support() {
       <p className="mb-4">If you encounter any issues, feel free to:</p>
       
       <ul className="text-lg mb-6">
-        <li>Open an issue on the <a href="https://github.com/httpsanuj1807/vercel-project/issues" target="_blank" rel="noopener noreferrer" className="text-blue-400 underline">GitHub repository</a>.</li>
         <li>Contact me directly through any of the following social media channels:</li>
       </ul>
 
